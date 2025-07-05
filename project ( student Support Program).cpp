@@ -1,6 +1,3 @@
-//ubaid ahmad     2410-0011
-//Didar karim     2410-0098
-//Hasan shah      2410-0099
 #include <iostream>
 #include <string.h>
 #include <algorithm>
